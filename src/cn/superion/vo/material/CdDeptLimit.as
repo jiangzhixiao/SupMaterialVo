@@ -1,6 +1,7 @@
 package cn.superion.vo.material
 {
 /**
+ * 科室限额
  * CdDeptLimit VO.
  * @author Administrator
  * @Date 2016-04-14
