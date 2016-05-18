@@ -17,6 +17,7 @@ public dynamic class MaterialSupplierDetail
 	public var materialCode:String;
 	public var materialName:String;
 	public var materialSpec:String;
+	//
 	public var materialUnits:String;
 	public var materialId:String;
 	public var sendAmount:Number;
